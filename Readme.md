@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Денис Арнаут](https://up.htmlacademy.ru/javascript/20/user/422397).
-* Наставник: нет.
+* Наставник: Неизвестно.
 
 ---
 
